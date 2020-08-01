@@ -2,24 +2,29 @@
 
 This is a digital remake of the hang drum.
 
-Did you ever feel that the original Hang Drum is a really cool instrument but ways too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you. If you want to build it yourself, the components cost around 40 Euros.
+Did you ever feel that the original Hang Drum is a really cool instrument but ways too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you.
 
 # features
 
-* 12 touch pads (not velocity sensitive)
+* 12 touch pads tuned to a pentatonic (?) scale playing hang drum like sounds.
+* 1/4" mono output jack
+* USB power
+* A joystick. It works like a 4 way switch: Up / Down transposes the pads in semitone steps, left / right changes the release time.
 
 # components
 
 * Wooden box
 * Teensy 3.2 (should work with other Teensy Versions as well)
 * Audio Shield for Teensy 3.2
-* Arduino Thumb Joystick
+* Arduino Thumb Joystick. I bought the cheapest joystick I and this turned out to be a bad idea...
 * Adafruit MPR121 capacitive touch sensor
 * I used stripboard, headerpins / female header pins and wires to connect it all together
 * Conductive foil tape. I use copper tape.
 * Audio output jack, i use a mono 1/4" jack.
 
 # building instructions
+
+The components cost around 40 Euros.
 
 ## electronics
 
