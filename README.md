@@ -6,7 +6,8 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 
 # features
 
-* 12 touch pads tuned to a pentatonic (?) scale playing hang drum like sounds
+* 12 touch pads tuned to a pentatonic (?) scale playing hang drum like sounds. Touches are sensed using capacitive touch.
+* 8 note polyphony
 * 1/4" mono output jack
 * USB power
 * A joystick. It works like a 4 way switch: Up / Down transposes the pads in semitone steps, left / right changes the release time.
@@ -24,7 +25,7 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 
 # building instructions
 
-The components cost around 40 Euros.
+The components cost around 40 Euros. If you have basic soldering knowledge and used an arduino / teensy before then this should be an easy build. 
 
 ## electronics
 
@@ -55,7 +56,7 @@ The components cost around 40 Euros.
 
 # if I built a second version then I would...
 
-* either ommit the joystick or use a better joystick. The one I used is too noisy so I could not use it for pitch bend. Thats why I came up with the transpose and release functionality for the joystick, it should have other functionalities.
+* either ommit the joystick or use a better joystick. The one I used is too noisy so I could not use it for pitch bend, tremolo or anything performance oriented. It was already installed to the box when I found out so I added the transpose and release functionality. 
 * play around more with the proximity mode of the MPR121. Hopefully this can add touch sensitivity and velocity sensitivity.
 * add a voltage regulator, external power connector (probably compatible to guitar pedals) and 9V battery pack
 * add switches,  on the side of the instrument to add more soundshaping capabilities: Wave form selector, ADSR, scale selector, looper, volume control, FX, ...
