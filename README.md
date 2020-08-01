@@ -8,6 +8,12 @@ Demo video:
 
 Did you ever feel that the original Hang Drum is a really cool instrument but way too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you.
 
+Fotos
+
+![Image1](/images/https://github.com/juan-karacho/pocket-hang-drum/blob/master/IMG_0367.jpg?raw=true)
+![Image2](/images/https://github.com/juan-karacho/pocket-hang-drum/blob/master/IMG_0369.jpg?raw=true)
+![Image3](/images/https://github.com/juan-karacho/pocket-hang-drum/blob/master/IMG_0368.jpg?raw=true)
+
 # features
 
 * 12 touch pads tuned to a pentatonic (?) scale playing hang drum like sounds. Touches are sensed using capacitive touch.
