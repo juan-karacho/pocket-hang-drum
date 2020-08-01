@@ -2,7 +2,7 @@
 
 This is a digital remake of the hang drum.
 
-Did you ever feel that the original Hang Drum is a really cool instrument but ways too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you.
+Did you ever feel that the original Hang Drum is a really cool instrument but ways too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you. If you want to build it yourself, the components cost around 40 Euros.
 
 # features
 
@@ -55,6 +55,8 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 * add a voltage regulator, external power connector (probably compatible to guitar pedals) and 9V battery pack
 * add switches,  on the side of the instrument to add more soundshaping capabilities: Wave form selector, ADSR, scale selector, looper, volume control, FX, ...
 * Use an Teensy like 3.6 with onboard DAC. Then I would add trigger and cv outs to connect it my modular synthesizer.
+* Add software to make this 
+* Add a proper neutrik USB plug instead of just a whole.
 
 # license
 
