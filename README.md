@@ -2,7 +2,7 @@
 
 This is a digital musical instrument inspired by the sounds of the Hang drum.
 
-# demo video:
+# demo video
 
 [![](http://img.youtube.com/vi/4I31jZFDY90/0.jpg)](http://www.youtube.com/watch?v=4I31jZFDY90 "")
 
