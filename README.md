@@ -1,12 +1,12 @@
-# pocket-hang-drum
+# pocket hang drum
 
-This is a digital remake of the hang drum.
+This is a digital musical instrument inspired by the sounds of the Hang drum.
 
-Did you ever feel that the original Hang Drum is a really cool instrument but ways too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you.
+Did you ever feel that the original Hang Drum is a really cool instrument but way too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you.
 
 # features
 
-* 12 touch pads tuned to a pentatonic (?) scale playing hang drum like sounds.
+* 12 touch pads tuned to a pentatonic (?) scale playing hang drum like sounds
 * 1/4" mono output jack
 * USB power
 * A joystick. It works like a 4 way switch: Up / Down transposes the pads in semitone steps, left / right changes the release time.
