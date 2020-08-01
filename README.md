@@ -31,7 +31,7 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 6. Solder 12 long wires to the 12 touch sensor inputs of the MPR121.
 7. The teensy audio shield has two solder pads for audio out left and gnd. Connect these to the audio jack: Audio Out Left to the jacks tip, GND to the jacks sleeve.
 
-## enclosing
+## enclosure
 
 1. Drill 12 holes in the top of the box at the centers of the later locations of the touch pads.
 2. Drill a big hole for the joystick, probably more holes for screws to attach the joystick to the top of the box.
@@ -40,6 +40,7 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 5. Cut a hole for the joystick in the tape. Stick the joystick through and attach it. I could take of the hat of the joystick which makes the next step easier...
 6. Then strip the wires about one centimeter each. But the tape strips on so that each tape strip is connected to its wire. I put rows of tape and cut off what I did not need with a cutter knife. It is important that the pads do not touch each other.
 7. Stick the audio jack through its hole and tighten it on the other side with a screw.
+8. Last step, when everything else works: Drill a hole in the strip board and attach the strip board to the box using a screw.
 
 ## software
 
