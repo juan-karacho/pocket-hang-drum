@@ -2,7 +2,7 @@
 
 This is a digital musical instrument inspired by the sounds of the Hang drum.
 
-[![Watch the video](https://img.youtube.com/vi/T-4I31jZFDY90/maxresdefault.jpg)](https://youtu.be/T-4I31jZFDY90)
+[![Watch the video](https://img.youtube.com/vi/4I31jZFDY90/maxresdefault.jpg)](https://youtu.be/4I31jZFDY90)
 
 Did you ever feel that the original Hang Drum is a really cool instrument but way too expensive? Not digital enough? Not hackable? And way too big and heavy? Then this digital pocket version of the Hang Drum is for you.
 
