@@ -10,7 +10,7 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 
 Fotos
 
-![](https://github.com/juan-karacho/pocket-hang-drum/blob/master/IMG_0367.jpg?raw=true)
+![](https://github.com/juan-karacho/pocket-hang-drum/blob/master/IMG_0367.jpg?raw=true | width=400)
 
 
 
