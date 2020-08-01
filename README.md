@@ -54,6 +54,7 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 * play around more with the proximity mode of the MPR121. Hopefully this can add touch sensitivity and velocity sensitivity.
 * add a voltage regulator, external power connector (probably compatible to guitar pedals) and 9V battery pack
 * add switches,  on the side of the instrument to add more soundshaping capabilities: Wave form selector, ADSR, scale selector, looper, volume control, FX, ...
+* Use an Teensy like 3.6 with onboard DAC. Then I would add trigger and cv outs to connect it my modular synthesizer.
 
 # license
 
