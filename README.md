@@ -71,7 +71,7 @@ The components cost around 40 Euros. If you have basic soldering knowledge and u
 * either ommit the joystick or use a better joystick. The one I used is too noisy so I could not use it for pitch bend, tremolo or anything performance oriented. It was already installed to the box when I found out so I added the transpose and release functionality. 
 * play around more with the proximity mode of the MPR121. Hopefully this can add touch sensitivity and velocity sensitivity.
 * add a voltage regulator, external power connector (probably compatible to guitar pedals) and 9V battery pack
-* add switches,  on the side of the instrument to add more soundshaping capabilities: Wave form selector, ADSR, scale selector, looper, volume control, FX, ...
+* add switches, encoders, ... on the side of the instrument to add more soundshaping capabilities: Wave form selector, ADSR, scale selector, looper, volume control, FX, ...
 * Use an Teensy like 3.6 with onboard DAC. Then I would add trigger and cv outs to connect it my modular synthesizer.
 * Add software to turn it into a MIDI controller. The hardware is there, this just needs to be implemented in the software.
 * Add a proper neutrik USB plug instead of just a whole.
