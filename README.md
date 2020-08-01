@@ -18,7 +18,7 @@ Did you ever feel that the original Hang Drum is a really cool instrument but wa
 
 * Drill 12 holes in the top of the box for 12 
 
-# If I would build a second version then I would...
+# If I built a second version then I would...
 
 * either ommit the joystick or use a better joystick. The one I used is too noisy so I could not use it for pitch bend. Thats why I came up with the transpose and release functionality for the joystick, it should have other functionalities.
 * add a voltage regulator, external power connector (probably compatible to guitar pedals) and 9V battery pack
